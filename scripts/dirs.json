@@ -1,0 +1,219 @@
+{
+ "AI视频-生视频": {
+  "bili": [
+   "AI剪辑",
+   "AI视频教程",
+   "即梦 教程",
+   "可灵 教程",
+   "Seedance 教程",
+   "AI短片 制作",
+   "AI漫剧 教程",
+   "数字人 教程",
+   "剪映 AI",
+   "AI混剪",
+   "AI MV 制作",
+   "AI视频 工作流"
+  ],
+  "yt": [
+   "AI video editing workflow",
+   "AI video tutorial",
+   "Seedance tutorial",
+   "Kling AI tutorial",
+   "AI short film made with AI",
+   "AI video editor",
+   "Higgsfield tutorial",
+   "AI music video"
+  ],
+  "reddit": [
+   "aivideo",
+   "VideoEditing"
+  ],
+  "github": [
+   "ai video editing",
+   "video generation workflow",
+   "auto video editing"
+  ]
+ },
+ "AI视频-剪辑": {
+  "bili": [
+   "AI剪口播",
+   "口播 自动剪辑",
+   "口播剪辑 教程",
+   "AI自动剪辑",
+   "批量剪辑",
+   "AI批量混剪",
+   "剪映 智能剪口播",
+   "小Lin说 同款",
+   "动态图表 教程",
+   "数据可视化 视频 制作",
+   "知识类视频 剪辑 特效",
+   "AI 字幕 花字",
+   "Claude 剪视频",
+   "AE AI 自动化",
+   "Remotion",
+   "口播视频 包装"
+  ],
+  "yt": [
+   "AI edit talking head video",
+   "AI auto edit podcast cuts",
+   "batch video editing AI",
+   "Claude Code video editing",
+   "Remotion Claude",
+   "motion graphics AI explainer",
+   "AI b-roll automatic",
+   "Descript tutorial 2026",
+   "edit like a pro AI",
+   "explainer video animation workflow"
+  ],
+  "reddit": [
+   "VideoEditing",
+   "editors",
+   "NewTubers"
+  ],
+  "github": [
+   "talking head video editing",
+   "auto cut silence video",
+   "remotion skill",
+   "video editing agent",
+   "explainer video generation",
+   "jianying draft automation"
+  ]
+ },
+ "AI设计": {
+  "bili": [
+   "AI海报 教程",
+   "AI设计 教程",
+   "AI做封面",
+   "AI电商图",
+   "AI产品图",
+   "AI做PPT 教程",
+   "GPT Image 教程",
+   "Nano Banana 教程",
+   "即梦 生图 教程",
+   "Lovart",
+   "AI Logo 设计",
+   "AI 设计师 工作流",
+   "提示词 生图",
+   "AI 插画 教程",
+   "AI UI设计",
+   "AI 小红书封面"
+  ],
+  "yt": [
+   "GPT Image 2 tutorial",
+   "Nano Banana Pro tutorial",
+   "AI graphic design workflow",
+   "AI product photography",
+   "AI poster design",
+   "AI logo design tutorial",
+   "Claude design skill UI",
+   "AI thumbnail design",
+   "Lovart AI tutorial"
+  ],
+  "reddit": [
+   "midjourney",
+   "StableDiffusion",
+   "GraphicDesign",
+   "nanobanana"
+  ],
+  "github": [
+   "image prompt library",
+   "gpt image prompts",
+   "nano banana prompts",
+   "design skill claude",
+   "ppt skill",
+   "poster generation"
+  ]
+ },
+ "AI内容": {
+  "bili": [
+   "提示词 技巧",
+   "Claude Code 教程",
+   "Codex 教程",
+   "Opus 5.5",
+   "GPT-6 教程",
+   "DeepSeek 用法",
+   "豆包 技巧",
+   "Kimi 教程",
+   "AI写作 教程",
+   "AI写文案",
+   "AI做PPT",
+   "AI 办公 效率",
+   "NotebookLM",
+   "Skill 教程",
+   "MCP 教程",
+   "AI智能体 教程",
+   "WorkBuddy 教程",
+   "AI 知识库",
+   "Obsidian AI"
+  ],
+  "yt": [
+   "prompt engineering tips 2026",
+   "Claude Code tutorial",
+   "Codex tutorial",
+   "Claude skills tutorial",
+   "AI writing workflow",
+   "NotebookLM tutorial",
+   "ChatGPT tips you didn't know",
+   "AI second brain",
+   "AI agent tutorial beginners",
+   "Opus 5.5 tips"
+  ],
+  "reddit": [
+   "ClaudeAI",
+   "PromptEngineering",
+   "ChatGPTPro",
+   "ClaudeCode"
+  ],
+  "github": [
+   "claude skills",
+   "agent skills",
+   "prompt library",
+   "claude code workflow",
+   "awesome prompts chinese"
+  ]
+ },
+ "自动化": {
+  "bili": [
+   "AI自动化 工作流",
+   "n8n 教程",
+   "AI员工",
+   "一人公司 AI",
+   "AI 自动发布",
+   "自媒体 自动化",
+   "Agent 定时任务",
+   "OpenClaw 教程",
+   "Hermes Agent",
+   "Coze 工作流",
+   "Dify 教程",
+   "AI 自动 抓取",
+   "浏览器自动化 AI",
+   "Codex 自动化",
+   "AI 帮我 赚钱 自动"
+  ],
+  "yt": [
+   "n8n tutorial 2026",
+   "AI automation agency",
+   "AI employee setup",
+   "automate my business with AI",
+   "Claude Code automation",
+   "OpenClaw setup",
+   "Hermes agent tutorial",
+   "AI agent runs 24/7",
+   "browser agent automation"
+  ],
+  "reddit": [
+   "n8n",
+   "automation",
+   "AI_Agents",
+   "openclaw"
+  ],
+  "github": [
+   "ai agent automation",
+   "n8n workflows",
+   "openclaw skills",
+   "personal ai assistant",
+   "content automation agent",
+   "browser agent"
+  ]
+ }
+}
